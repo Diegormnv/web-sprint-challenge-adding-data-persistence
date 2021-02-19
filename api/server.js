@@ -14,4 +14,3 @@ server.use('/api/resources', ResourceRouter);
 server.use('/api/tasks', TaskRouter);
 
 module.exports = server;
-
